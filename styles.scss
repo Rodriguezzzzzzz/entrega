@@ -1,0 +1,19 @@
+.fondo-card{
+    background-image: url(Cielo.jpg);
+}
+
+$primary: #0d6efd;
+$success: #00e1ff;
+$secundary: #00ff40;
+$warning:#ffee00;
+$danger: #ea00ff;
+
+
+
+
+@media(min-width: 992px){
+    .alto{
+    }
+}
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
